@@ -41,6 +41,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: igor leão](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=IGOR-LEAO)](https://www.linkedin.com/in/igor-le%C3%A3o-8a46a51ab/)
-[![Gmail igorleao.eng](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Igor-leao)](https://mail.google.com/mail/u/2/#inbox)
-[![GitHub igor leão]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Igor-leao)
+[![Linkedin: igor leão](https://img.shields.io/badge/-igorleao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=IGOR-LEAO)](https://www.linkedin.com/in/igor-le%C3%A3o-8a46a51ab/)
+[![Gmail igorleao.eng](https://img.shields.io/badge/-igorleao.eng-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Igor-leao)](https://mail.google.com/mail/u/2/#inbox)
+[![GitHub igor leão]( https://img.shields.io/github/followers/?label=follow&style=social)](https://github.com/Igor-leao)
